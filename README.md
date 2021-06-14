@@ -10,6 +10,6 @@ Multifungsi maksudnya pohon ini bisa memberikan banyak manfaat baik itu produksi
 Proyek BHUMI akan membuat Rumah Makan Gratis yang dikelola oleh relawan. Sasaran utama adalah tukang ojek, pedagang asongan, dan kaum miskin lainnya.
 
 3. Penggunaan BHUMI Token di ekosistem proyek.
-BHUMI Token digunakan untuk mendukung Proyek BHUMI tersebut. Selain itu, token juga digunakan di ekosistem proyek. Misalnya perdagangan hasil produksi hutan menggunakan BHUMI Token. Rumah Makan juga menyediakan menu khusus VIP bagi pengunjung berbayar, yang pembayarannya juga menggunakan BHUMI Token. Upah pekerja proyek juga menggunakan BHUMI Token. Dengan penggunaan BHUMI Token di ekosistem proyek, diharapkan dapat meningkatkan permintaan token dan menaikkan harga token secara alami.
+BHUMI Token ($BHUMI) digunakan untuk mendukung Proyek BHUMI tersebut. Selain itu, token juga digunakan di ekosistem proyek. Misalnya perdagangan hasil produksi hutan menggunakan $BHUMI. Rumah Makan juga menyediakan menu khusus VIP bagi pengunjung berbayar, yang pembayarannya juga menggunakan $BHUMI. Upah pekerja proyek juga menggunakan $BHUMI. Dengan penggunaan $BHUMI di ekosistem proyek, diharapkan dapat meningkatkan permintaan token dan menaikkan harga token secara alami.
 
 Untuk pertama kalinya, semua proyek ini akan diluncurkan di wilayah Propinsi Sumatera Selatan, Indonesia.
