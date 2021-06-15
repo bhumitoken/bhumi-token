@@ -15,4 +15,7 @@ BHUMI Token ($BHUMI) digunakan untuk mendukung Proyek BHUMI tersebut. Selain itu
 Untuk pertama kalinya, semua proyek ini akan diluncurkan di wilayah Propinsi Sumatera Selatan, Indonesia.
 
 www.bhumi.website
+
 Contract Address $BHUMI = 0x0a49e958c8aab2a99d7930367059d888a35a9e0e
+
+https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0a49e958c8aab2a99d7930367059d888a35a9e0e
