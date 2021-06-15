@@ -23,3 +23,33 @@ https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0a49e958c8aab2a99d7
 Pre-sale Tahap 1 sebanyak 10juta BHUMI (harga 1 BHUMI = 0,01 USDT) di CCTip https://my.cctip.io/token/exchange/order/62a12157162e87339362dbdbeacac124b1c9f56239dc3c9f087008cc866e494c
 
 Pre-sale Tahap 1 sebanyak 10juta BHUMI (harga 1 BHUMI = 0,1 USDT)... coming soon
+
+Road Map
+Mei 2021:
+- Pengembangan ide dan program
+- Pembuatan konsep kontrak
+
+Juni 2021:
+- Pembuatan Token
+- Pembuatan website, channel youtube, email dan grup Telegram
+- Listing di Exchanger CCTip
+- Air Drop di Grup Telegram
+
+Juli 2021:
+- Pre-sale Tahap 1 di CCTip dengan harga 1 BHUMI = 0.01 USDT
+- Penyempurnaan website
+
+Agustus 2021:
+- Listing dan pengisian Likuiditas di PancakeSwap
+- Pre-sale Tahap 2 dengan harga 1 BHUMI = 0.1 USDT
+
+September 2021:
+- Memulai proyek staking koin UMI
+
+Desember 2021:
+- Memulai proyek penanaman pohon
+- memulai proyek rumah makan gratis
+
+Next:
+- Listing di Binance dengan rate awal 1 BHUMI = 1 USDT
+- Mengkaji kemungkinan Burning Token BHUMI di BSC dan konversi sepenuhnya ke kripto dan blockchain UMI.
