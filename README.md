@@ -16,7 +16,9 @@ BHUMI Token ($BHUMI) digunakan untuk mendukung Proyek BHUMI tersebut. Selain itu
 
 4. (Online) Penggalangan dana abadi dalam bentuk koin kripto UMI (Universal Money Instrument). UMI dipilih sebagai satu-satunya koin yang memenuhi unsur Desentralisasi, Gratis biaya transfer, kecepatan proses >65.000 TPS dan keamanan yang tinggi, serta sangat ramah lingkungan. Dana Abadi diletakkan di struktur staking UMI. Proyek BHUMI akan membuat struktur staking sendiri dengan target modal minimal 1.000.000 UMI. Hasil staking (profit) digunakan untuk mengembangkan komunitas dan mendukung ekosistem proyek BHUMI lainnya. Pada akhirnya, penggunaan $BHUMI akan dikonversi seluruhnya ke UMI agar transaksi komunitas semakin efisien.
 
-www.bhumi.website
+www.bhumi.website 
+bhumi.website/youtube  
+bhumi.website/telegram 
 
 Contract Address $BHUMI = 0x0a49e958c8aab2a99d7930367059d888a35a9e0e
 
