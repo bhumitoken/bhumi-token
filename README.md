@@ -2,7 +2,9 @@
 
 BHUMI adalah proyek memelihara kelangsungan sumber daya alam dan kesejahteraan semua makhluk di Bumi antara lain manusia, hewan, tumbuhan dan semua ekosistemnya.
 
-Proyek BHUMI adalah:
+BHUMI Token adalah token digital yang digunakan dalam ekosistem proyek BHUMI. Kekuatan token ini terletak pada proyek BHUMI yang menggabungkan proyek dunia nyata (sektor riil) dan cryptocurrency.
+
+Proyek BHUMI meliputi kegiatan/usaha sebagai berikut:
 1. (Offline) Penanaman Pohon multifungsi. 
 Multifungsi maksudnya pohon ini bisa memberikan banyak manfaat baik itu produksi oksigen, pemulihan sumber air dan sekaligus sumber pangan. Hasil produksi apapun yang bisa dijual (misalnya daun, kayu, akar dan buahnya) 50% keuntungannya akan dikembalikan kepada Holder dalam bentuk air drop token baru berdasarkan persentase kepemilikan token pada saat distribusi.
 
