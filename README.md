@@ -19,3 +19,7 @@ www.bhumi.website
 Contract Address $BHUMI = 0x0a49e958c8aab2a99d7930367059d888a35a9e0e
 
 https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0a49e958c8aab2a99d7930367059d888a35a9e0e
+
+Pre-sale Tahap 1 sebanyak 10juta BHUMI (harga 1 BHUMI = 0,01 USDT) di CCTip https://my.cctip.io/token/exchange/order/62a12157162e87339362dbdbeacac124b1c9f56239dc3c9f087008cc866e494c
+
+Pre-sale Tahap 1 sebanyak 10juta BHUMI (harga 1 BHUMI = 0,1 USDT)... coming soon
