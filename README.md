@@ -13,3 +13,5 @@ Proyek BHUMI akan membuat Rumah Makan Gratis yang dikelola oleh relawan. Sasaran
 BHUMI Token ($BHUMI) digunakan untuk mendukung Proyek BHUMI tersebut. Selain itu, token juga digunakan di ekosistem proyek. Misalnya perdagangan hasil produksi hutan menggunakan $BHUMI. Rumah Makan juga menyediakan menu khusus VIP bagi pengunjung berbayar, yang pembayarannya juga menggunakan $BHUMI. Upah pekerja proyek juga menggunakan $BHUMI. Dengan penggunaan $BHUMI di ekosistem proyek, diharapkan dapat meningkatkan permintaan token dan menaikkan harga token secara alami.
 
 Untuk pertama kalinya, semua proyek ini akan diluncurkan di wilayah Propinsi Sumatera Selatan, Indonesia.
+
+www.bhumi.website
